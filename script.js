@@ -1,4 +1,3 @@
-
 var generateBtn = document.querySelector("#generate");
 var pwd = String;
 // Write password to the #password input
